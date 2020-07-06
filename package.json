@@ -1,0 +1,26 @@
+{
+  "name": "kh3-library",
+  "version": "0.0.1",
+  "description": "library",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevlyKang/kh3-library.git"
+  },
+  "keywords": [
+    "toy"
+  ],
+  "author": "KangHyun Lee <rkdgusdl92+it@gmail.com> (https://kangto.dev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevlyKang/kh3-library/issues"
+  },
+  "homepage": "https://github.com/DevlyKang/kh3-library#readme",
+  "devDependencies": {
+    "typescript": "^3.9.6"
+  }
+}
